@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'YHLoading_Example' do
+  pod 'YHLoading', :path => '../'
+
+  target 'YHLoading_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
