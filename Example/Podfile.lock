@@ -1,0 +1,19 @@
+PODS:
+  - Masonry (1.0.2)
+  - YHLoading (0.1.0):
+    - Masonry
+
+DEPENDENCIES:
+  - YHLoading (from `../`)
+
+EXTERNAL SOURCES:
+  YHLoading:
+    :path: ../
+
+SPEC CHECKSUMS:
+  Masonry: 7c429b56da9d4ee0bbb3ed77a5ea710d6a5df39e
+  YHLoading: 16132979c4495a7f54177ace2b563f11db6def33
+
+PODFILE CHECKSUM: d351370244fa8bd272585d0aba17e52967ad9df0
+
+COCOAPODS: 1.2.1

@@ -1,0 +1,6 @@
+framework module YHLoading {
+  umbrella header "YHLoading-umbrella.h"
+
+  export *
+  module * { export * }
+}
